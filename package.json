@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "cybernote-2",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Cyber note 2 - realtime notetaking system",
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
